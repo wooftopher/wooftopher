@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+My name is Christopher, i started coding 2 years ago and just completed my commom core at 42 Quebec. Im a big fan of video game, AI and emerging tecnologie.
+That why im currently working on alot of basic gaming logic in smalls projects with unity. Soon i will start working on algorithym, AI and machine learning to add those principle to my video game.
 <!--
 **wooftopher/wooftopher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
